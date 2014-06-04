@@ -1,0 +1,32 @@
+{
+  "name": "request-then",
+  "version": "0.0.1",
+  "description": "A mashup of request with then/promise",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test/run.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/js-inside/request-then.git"
+  },
+  "keywords": [
+    "request",
+    "promise",
+    "es6"
+  ],
+  "author": "JSInside",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/js-inside/request-then/issues"
+  },
+  "homepage": "https://github.com/js-inside/request-then",
+  "devDependencies": {
+    "minijasminenode": "0.4.0",
+    "mockery": "1.4.0"
+  },
+  "dependencies": {
+    "promise": "5.0.0",
+    "request": "2.36.0"
+  }
+}
