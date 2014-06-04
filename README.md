@@ -3,6 +3,8 @@ request-then
 
 A mashup of [request](https://github.com/mikeal/request) with [then/promise](https://github.com/then/promise)
 
+[![Build Status](https://travis-ci.org/js-inside/request-then.svg?branch=master)](https://travis-ci.org/js-inside/request-then)
+
 Install
 =======
 
