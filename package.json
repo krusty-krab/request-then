@@ -27,6 +27,6 @@
   },
   "dependencies": {
     "promise": "5.0.0",
-    "request": "2.36.0"
+    "request": "2.42.0"
   }
 }
